@@ -1,6 +1,12 @@
 ### Hi there 👋
 
-My name is Dana and I'm a Front End Developer based in Ontario.
+My name is Dana and I'm a Front End Developer based in Ontario. I'm currently learning JavaScript while working on my own web applications!
+
+
+
+
+
+
 
 <!-- [![Dana's GitHub stats](https://github-readme-stats.vercel.app/api?username=danajcarroll)](https://github.com/danajcarroll/github-readme-stats) -->
 
