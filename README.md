@@ -2,7 +2,7 @@
 
 My name is Dana and I'm a Front End Developer based in Ontario.
 
-[![Dana's GitHub stats](https://github-readme-stats.vercel.app/api?username=danajcarroll)](https://github.com/danajcarroll/github-readme-stats)
+<!-- [![Dana's GitHub stats](https://github-readme-stats.vercel.app/api?username=danajcarroll)](https://github.com/danajcarroll/github-readme-stats) -->
 
 <!--
 **danajcarroll/danajcarroll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
